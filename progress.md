@@ -71,3 +71,28 @@ Ready to begin the Version Control course.
 - Continue Module 1
 - Learn more about Git workflows
 - Explore branching and merging concepts
+
+## 2026-06-13
+
+### Completed
+
+- History of version control
+- Software collaboration concepts
+- Revision history
+- Staging vs production
+- Knowledge check
+- Module quiz
+
+### Key Takeaways
+
+- Version control tracks changes over time.
+- Git allows developers to safely manage project history.
+- Staging acts as a preparation area before committing changes.
+- Professional teams collaborate through shared repositories.
+
+### Next
+
+- Module 2: Command Line
+- Learn directory navigation
+- Learn basic terminal commands
+- Connect command line usage to Git workflows

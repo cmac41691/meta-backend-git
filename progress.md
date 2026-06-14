@@ -96,3 +96,28 @@ Ready to begin the Version Control course.
 - Learn directory navigation
 - Learn basic terminal commands
 - Connect command line usage to Git workflows
+
+
+## 2026-06-14
+
+### Completed
+
+- Using Bash on Windows
+- Introduction to Command Line: Checking the Working Directory
+- Change directories and list contents
+- Creating and moving directories and files
+- Creating and navigating directories and files
+
+### Key Takeaways
+
+- pwd displays the current working directory.
+- ls displays files and folders in the current directory.
+- cd changes directories.
+- Directories can be created and organized through the command line.
+- Navigation skills are foundational for Git and backend workflows.
+
+### Next
+
+- Create and Manipulate Directories and Files (Lab)
+- Self Review
+- Pipes

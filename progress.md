@@ -121,3 +121,28 @@ Ready to begin the Version Control course.
 - Create and Manipulate Directories and Files (Lab)
 - Self Review
 - Pipes
+
+## 2026-06-16
+
+### Completed
+
+- Create and Manipulate Directories and Files (Lab)
+- Self Review: Make and change directories and files
+
+### Key Takeaways
+
+- Practiced creating directories and files from the command line.
+- Practiced navigating directory structures using terminal commands.
+- Reinforced usage of cd, ls, pwd, and mkdir.
+- Learned that command-line tasks require careful attention to directory location and command syntax.
+- Successfully completed the self-review after working through mistakes and troubleshooting.
+
+### Reflection
+
+The self-review was more challenging than expected, but it helped reinforce the command-line concepts from the module. Working through mistakes improved my understanding of filesystem navigation and command usage.
+
+### Next
+
+- Pipes
+- Additional command-line concepts
+- Continue Module 2

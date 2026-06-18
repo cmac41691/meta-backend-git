@@ -146,3 +146,29 @@ The self-review was more challenging than expected, but it helped reinforce the 
 - Pipes
 - Additional command-line concepts
 - Continue Module 2
+
+## 2026-06-18
+
+### Completed
+
+- Pipes
+- Redirection
+
+### Key Takeaways
+
+- Pipes allow the output of one command to become the input of another command.
+- Redirection allows command output to be written to files instead of the terminal.
+- Commands can be combined to create more efficient workflows.
+- Pipes and redirection are foundational concepts in Unix and Linux environments.
+
+### Backend Connection
+
+- Pipes help process command output efficiently.
+- Redirection is commonly used for logs, reports, and automation.
+- These concepts are widely used on Linux servers and in backend workflows.
+
+### Next
+
+- Continue Module 2
+- Additional command-line concepts
+- Further terminal practice

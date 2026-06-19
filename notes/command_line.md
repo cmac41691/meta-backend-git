@@ -171,3 +171,42 @@ Output → Another Command
 Redirection (>)
 =
 Output → File
+
+GREP
+
+Purpose:
+Search for text inside files.
+
+Think:
+
+File
+ ↓
+Search Pattern
+ ↓
+Matching Results
+
+Example:
+
+grep "hello" notes.txt
+
+Searches notes.txt for the word "hello".
+
+Key Idea:
+Quickly find specific text without manually reading an entire file.
+
+Useful Options:
+
+grep -i
+Ignore case sensitivity.
+
+grep -r
+Search recursively through directories.
+
+Backend Connection:
+Used for logs, debugging, configuration files, error messages, and server troubleshooting.
+
+Mental Model:
+
+grep
+=
+Find information

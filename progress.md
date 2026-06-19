@@ -172,3 +172,32 @@ The self-review was more challenging than expected, but it helped reinforce the 
 - Continue Module 2
 - Additional command-line concepts
 - Further terminal practice
+
+## 2026-06-19
+
+### Completed
+
+- Grep
+- Exploring Shell Commands for File and Text Processing (Lab)
+- Unix Commands Knowledge Check
+- Module Quiz: Command Line
+- Module Summary: Command Line
+
+### Key Takeaways
+
+- grep is used to search for text inside files.
+- Shell commands can be combined to process files and text efficiently.
+- Command-line tools are powerful when used together.
+- Linux and Unix commands are foundational for Git and backend development.
+
+### Backend Connection
+
+- grep is commonly used for log analysis and troubleshooting.
+- Text-processing tools help developers find information quickly.
+- Command-line skills support backend workflows, automation, and server management.
+
+### Next
+
+- Module 3: Working with Git
+- Git fundamentals
+- Repository workflows

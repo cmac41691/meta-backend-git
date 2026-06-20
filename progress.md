@@ -201,3 +201,46 @@ The self-review was more challenging than expected, but it helped reinforce the 
 - Module 3: Working with Git
 - Git fundamentals
 - Repository workflows
+
+## 2026-06-20
+
+### Completed
+
+- How Git Works
+- Add and Commit
+- Branches
+- Remote vs Local
+- Push and Pull
+- Repository Lab
+- Created working_with_git.md notes
+- Created repository_lab/result.txt artifact
+
+### Key Takeaways
+
+- Git tracks project history through commits.
+- Branches allow developers to work independently without affecting the main branch.
+- Local repositories exist on a developer's machine, while remote repositories enable collaboration and backup.
+- Push and pull synchronize local and remote repositories.
+- Repository workflows follow a consistent process: status → add → commit → push.
+
+### Backend Connection
+
+- Version control is essential for professional software development.
+- Git enables safe experimentation, collaboration, and recovery of previous work.
+- Repository workflows are used throughout backend, frontend, DevOps, and infrastructure projects.
+
+### Reflection
+
+This module reinforced concepts I have already been using in my personal repositories. Understanding the terminology behind branches, local vs remote repositories, and repository workflows helped connect my practical Git experience to professional development practices. Creating the repository lab artifact provided additional practice with the complete Git workflow.
+
+### Artifacts
+
+- notes/working_with_git.md
+- exercises/repository_lab/result.txt
+
+### Next
+
+- Resolving Conflicts
+- Self Review
+- Continue Module 3
+- Additional Git practice

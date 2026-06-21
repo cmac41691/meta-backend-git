@@ -244,3 +244,27 @@ This module reinforced concepts I have already been using in my personal reposit
 - Self Review
 - Continue Module 3
 - Additional Git practice
+
+## 2026-06-21
+
+### Completed
+
+* Merge lab (local repository version)
+* Created and switched branches
+* Created branch-specific commits
+* Merged a feature branch into main
+* Learned how HEAD tracks the current branch/commit
+* Created merge-lab artifact
+* Pushed changes to GitHub
+
+### Key Takeaways
+
+* Branches allow isolated development without affecting main.
+* HEAD points to the currently checked-out branch or commit.
+* Commits made on a branch remain isolated until merged.
+* Merging incorporates branch changes into main.
+* Git log can be used to verify commit history and repository state.
+
+### Reflection
+
+Today was the first time I intentionally worked through a complete branching and merging workflow in my own repository. Using my actual Meta Backend repository instead of a temporary lab helped reinforce how Git is used in real projects. I am beginning to think about Git as a workflow rather than a collection of commands.

@@ -1,1 +1,13 @@
-This change was created on the merge-lab branch.
+Merge Lab Artifact
+Date: 2026-06-21
+
+Concepts Practiced:
+- Creating branches
+- Switching branches
+- Making branch-specific commits
+- Viewing commit history
+- Merging branches into main
+- Verifying merges with git log
+
+Result:
+Successfully merged merge-lab into main.

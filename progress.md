@@ -268,3 +268,18 @@ This module reinforced concepts I have already been using in my personal reposit
 ### Reflection
 
 Today was the first time I intentionally worked through a complete branching and merging workflow in my own repository. Using my actual Meta Backend repository instead of a temporary lab helped reinforce how Git is used in real projects. I am beginning to think about Git as a workflow rather than a collection of commands.
+
+### 2026-06-22
+
+#### Completed
+- Diff Commands
+
+#### Key Takeaways
+- git diff compares changes between files, commits, or branches.
+- Diff output helps identify what was added, modified, or removed.
+- Diff is useful before committing changes to verify work.
+
+#### Next
+- Blame
+- Forking
+- Knowledge Check

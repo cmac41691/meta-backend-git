@@ -283,3 +283,22 @@ Today was the first time I intentionally worked through a complete branching and
 - Blame
 - Forking
 - Knowledge Check
+
+### 2026-06-23
+
+#### Completed
+- HEAD
+- Forking
+
+#### Key Takeaways
+- HEAD points to the currently checked-out branch or commit.
+- Forking creates an independent copy of a repository.
+- Forks are commonly used in open-source development to contribute changes without direct access to the original repository.
+- Contributors typically create branches in their fork and submit Pull Requests back to the original project.
+
+#### Reflection
+While I could not meaningfully fork my own repository within the same GitHub account, I understood the workflow and how it differs from local branching. The merge-lab artifact I created earlier demonstrated many of the same concepts used in collaborative development.
+
+#### Next
+- Knowledge Check: Git and GitHub
+- Additional Resources 

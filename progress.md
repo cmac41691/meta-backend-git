@@ -302,3 +302,22 @@ While I could not meaningfully fork my own repository within the same GitHub acc
 #### Next
 - Knowledge Check: Git and GitHub
 - Additional Resources 
+
+### 2026-06-24
+
+#### Completed
+- Knowledge Check: Git and GitHub
+
+#### Result
+- Score: 83.33%
+- Passed on first attempt
+
+#### Key Takeaways
+- Local repositories exist on the developer's machine.
+- Remote repositories exist on servers such as GitHub.
+- Cloning creates a local copy of a remote repository.
+- Git workflows involve local development and synchronization with remotes.
+
+#### Next
+- Additional Resources
+- Continue Meta Version Control course

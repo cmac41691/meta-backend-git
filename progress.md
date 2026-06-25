@@ -321,3 +321,38 @@ While I could not meaningfully fork my own repository within the same GitHub acc
 #### Next
 - Additional Resources
 - Continue Meta Version Control course
+
+## 2026-06-25
+
+### Completed
+
+- Created GitHub repository for forking lab
+- Cloned repository locally
+- Created feature branch
+- Updated README
+- Used `git status` and `git diff`
+- Committed changes
+- Pushed feature branch to GitHub
+- Created Pull Request
+- Merged Pull Request
+- Deleted remote feature branch
+- Deleted local feature branch
+
+### Key Takeaways
+
+- A feature branch isolates work from the main branch.
+- Pull Requests provide a structured way to review and merge changes.
+- Git tracks local history while GitHub manages collaboration.
+- After merging, both remote and local feature branches should be cleaned up.
+- A complete Git workflow is:
+  Repository → Branch → Commit → Push → Pull Request → Merge → Cleanup
+
+### Reflection
+
+Today I completed my first full GitHub collaboration workflow from start to finish using my own repository. Instead of only following the Coursera instructions, I created the repository myself, cloned it locally, developed on a feature branch, opened a Pull Request, merged it into main, and cleaned up both the remote and local branches. The workflow now feels much more natural, and I am beginning to think in terms of how real software teams organize development rather than simply memorizing Git commands.
+
+### Next
+
+- Self-review: Create a repository with forking
+- Discussion prompt
+- Module Quiz: Working with Git

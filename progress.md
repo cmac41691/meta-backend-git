@@ -356,3 +356,34 @@ Today I completed my first full GitHub collaboration workflow from start to fini
 - Self-review: Create a repository with forking
 - Discussion prompt
 - Module Quiz: Working with Git
+
+### 2026-06-26
+
+#### Completed
+
+- Completed Self-review: Create a repository with forking
+- Completed Discussion Prompt
+- Completed Module Quiz: Working with Git
+- Score: 87.5%
+- Passed on first attempt
+- Watched Module Summary: Working with Git
+
+#### Key Takeaways
+
+- Practiced the complete GitHub workflow on a personal repository.
+- Reinforced the relationship between local Git and remote GitHub repositories.
+- Gained experience using feature branches and Pull Requests.
+- Learned that Pull Requests provide a structured review and merge process.
+- Completed the full Git workflow:
+
+  Repository → Clone → Branch → Commit → Push → Pull Request → Merge → Pull → Cleanup
+
+#### Reflection
+
+Yesterday's hands-on practice with my own `forking-lab` repository made today's review and module quiz much easier because I had already completed the entire workflow myself. Creating the repository, cloning it locally, working on a feature branch, committing changes, pushing to GitHub, opening a Pull Request, merging it into `main`, pulling the latest changes, and cleaning up both local and remote branches helped connect the individual Git commands into one complete development workflow. I now have a much stronger understanding of how Git and GitHub are used together in real software development.
+
+#### Next
+
+- Begin Module 5
+- Create notes for the new module
+- Continue documenting progress and reflections

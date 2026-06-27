@@ -409,3 +409,39 @@ Yesterday's hands-on practice with my own `forking-lab` repository made today's 
 
 - Discussion: Using the diff command
 - End-of-course graded assessment
+
+### 2026-06-27
+
+#### Completed
+
+- Completed the Meta Version Control course.
+- Finished the end-of-course graded assessment.
+- Earned the Meta Version Control certificate.
+- Added the certificate to my LinkedIn profile.
+- Added Git, GitHub, Version Control, and Pull Requests as certification skills.
+- Added the project-management-lab repository to my LinkedIn Featured section.
+- Participated in the course discussion prompts.
+- Completed all Version Control coursework.
+
+#### Reflection
+
+This course connected the individual Git commands into a complete development workflow. I now understand how Git and GitHub are used together throughout the software development lifecycle instead of viewing each command in isolation.
+
+Creating my own `project-management-lab` repository alongside the Coursera exercises reinforced the concepts far better than simply completing the labs. Practicing repository creation, feature branches, commits, `git diff`, pull requests, merges, synchronization, and branch cleanup gave me confidence that I can repeat the workflow independently.
+
+Updating my LinkedIn profile with the certificate and showcasing the repository also marked the beginning of building a professional backend portfolio rather than simply collecting course completions.
+
+#### Key Takeaways
+
+- Git is more than a collection of commands; it supports a complete development workflow.
+- Feature branches and pull requests make collaboration safer and more organized.
+- Independent practice repositories reinforce concepts and create portfolio artifacts.
+- Consistent documentation and commit history demonstrate learning and professional habits.
+- GitHub serves as both a development platform and a portfolio of practical work.
+
+#### Next
+
+- Begin the Introduction to Databases for Back-End Development course.
+- Create a new repository for the database module.
+- Continue documenting progress, notes, and reflections.
+- Begin building SQL skills and database-focused portfolio artifacts.
